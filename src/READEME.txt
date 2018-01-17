@@ -1,0 +1,9 @@
+Calendar assignment2
+Yuanbo Shi 500745024
+2017-04-13
+
+This program has all the functionaities required. Find person function does not work on finding through phone number or email, although they use the exactly same code as last and firstname. But inserting first and last name will find it correctly. Default names are in contacts file. Default empty person is displayed as "unknown". Bonus is not done.
+
+This program does compile fine on my device on eclipse. But the same as last assignment I did, I am afraid there will be somewhat incompatible issues I have no idea how to solve. If so, I apologize for the inconvenience.
+
+Thank you

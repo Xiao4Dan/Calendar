@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Contacts
+comment1.params=
+comment1.target=Contacts()
+comment2.params=p
+comment2.target=void\ add(Person)
+comment3.params=firstName\ lastName
+comment3.target=Person\ findPerson_Nm(java.lang.String,\ java.lang.String)
+comment4.params=phone
+comment4.target=Person\ findPerson_Ph(java.lang.String)
+comment5.params=email
+comment5.target=Person\ findPerson_Em(java.lang.String)
+comment6.params=
+comment6.target=void\ readContactsFile()
+numComments=7
