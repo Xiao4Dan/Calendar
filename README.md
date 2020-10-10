@@ -14,11 +14,11 @@ java AppointmentViewer
 
 * GUI(BlueJ)
 
-![Execute AppointmentViewer void main()](https://github.com/Xiao4Dan/Calendar/blob/master/Compile.PNG?raw=true)
+![Compile](https://github.com/Xiao4Dan/Calendar/blob/master/Compile.PNG?raw=true)
 
 # Description
 
-![UI](https://github.com/Xiao4Dan/Calendar/blob/master/Screenshot.PNG?raw=true)
+![Screenshot](https://github.com/Xiao4Dan/Calendar/blob/master/Screenshot.PNG?raw=true)
 
 # Conclusion
 
